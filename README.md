@@ -7,3 +7,9 @@ The goal for this project is to analyze data to help our developers understand w
 ## 2. Investigating Netflix Movies
 Performed an exploratory analysis of some entertainment data, analyzed data further with statistics, created more advanced visualizations and learned more advanced ways of working with data in pandas.
 <br />
+## 3. Exploring Hacker News Posts
+In this project, we'll work with a dataset of submissions to popular technology site Hacker News. We're specifically interested in posts with titles that begin with either Ask HN or Show HN. We'll compare these two types of posts to determine the following:
+
+- Do Ask HN or Show HN receive more comments on average?
+- Do posts created at a certain time receive more comments on average?
+<br />
