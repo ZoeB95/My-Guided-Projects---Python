@@ -17,3 +17,6 @@ In this project, we'll work with a dataset of submissions to popular technology 
 In this project, we're going to analyze a dataset about the westbound traffic on the I-94 Interstate highway. 
 The goal of our analysis is to determine a few indicators of heavy traffic on I-94. 
 <br />
+
+## 5. Storytelling Data Visualization on Exchange Rates
+The dataset we'll use describes Euro daily exchange rates between 1999 and 2021. We show comparatively how the euro-dollar rate changed under the last three US presidents and we show how the euro-dollar rate changed during the 2007-2008's financial crisis.
