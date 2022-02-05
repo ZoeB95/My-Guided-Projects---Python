@@ -20,3 +20,7 @@ The goal of our analysis is to determine a few indicators of heavy traffic on I-
 
 ## 5. Storytelling Data Visualization on Exchange Rates
 The dataset we'll use describes Euro daily exchange rates between 1999 and 2021. We show comparatively how the euro-dollar rate changed under the last three US presidents and we show how the euro-dollar rate changed during the 2007-2008's financial crisis.
+<br />
+
+## 6. The Android App Market on Google Play
+Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.
